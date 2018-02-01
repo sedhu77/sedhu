@@ -5,7 +5,7 @@
     printf("Enter the values of a,b and c\n");
 
     scanf("%d %d %d",a, &b,&c);
-    printf("a= %d\tb = %d\c = %d\n", a, b, c);
+    printf("a= %d\tb = %d\tc = %d\n", a, b, c);
     if (a>b)
     {
         if (a>c)
