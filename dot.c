@@ -10,6 +10,6 @@ void main()
 		count++;
 	}
 	a[count]='.';
-	printf("%sf",a);
+	printf("%sasas",a);
 	
 }
